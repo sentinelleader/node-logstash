@@ -8,7 +8,7 @@ They are two mandatory params `category` and `msg_type`. `msg_type` can be of tw
 * raw : If the messages are Raw JSON strings
 
 Example:
-Config using url: `output://scribe://localhost:1541?msg_type=raw%26category=nodejs`
+Config using url: `output://scribe://localhost:1541?msg_type=raw&category=nodejs`
 
 Parameters:
 
